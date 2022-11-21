@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fankholor-sudo" alt="fankholor-sudo" /></a> </p>
 
-- 💬 Ask me about **software development including Machine Learning**
+- 💬 Ask me about **software development and Machine Learning**
 
-- ⚡ Fun fact **I am great at what I do... code! {0_0}.**
+- ⚡ Fun fact **I am great at what I do, code...! {0_0}.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

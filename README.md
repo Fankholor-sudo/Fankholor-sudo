@@ -5,21 +5,32 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fankholor-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="fankholor-sudo" /> </p>
 
-<h3>About Me...</h3>
-- I am a computer science graduate with experience in Back-end development, Frontend development and Software designing. I have an analytical mind and I take pride in my work, as well as finding elegant solutions to complex problems. My aim is to contribute towards the fields of computer science and software development.
+<h4>About Me...</h4>
+I am a computer science graduate with experience in Back-end development, Front-end development<br/>
+and Software designing. I have an analytical mind and I take pride in my work, as well as finding elegant<br/>
+solutions to complex problems. My aim is to contribute towards the fields of computer science and<br/>
+software development.<br/>
 
 - Ask me about **software development and problem solving.**
 
 - Fun fact **I am great at what I do, code...! {0_0}.**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fankholor-sudo" alt="fankholor-sudo" /></a> </p>
+<br/>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fankholor-sudo&show_icons=true&locale=en&layout=compact" alt="fankholor-sudo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fankholor-sudo&show_icons=true&locale=en" alt="fankholor-sudo" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fankholor-sudo&show_icons=true&locale=en" alt="fankholor-sudo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fankholor-sudo&" alt="fankholor-sudo" /></p>
+
+<p ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fankholor-sudo&show_icons=true&locale=en&layout=compact" alt="fankholor-sudo" /></p>
+
+<br/>
+<br/>
+<br/>
+<h5>...Never let your passion take you where you character cannot keep you. :)<h5/>
+<br/>
+<br/>
+<div align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fankholor-sudo" alt="fankholor-sudo" /></a> </div>
+
 
 <p align="left">
 </p>

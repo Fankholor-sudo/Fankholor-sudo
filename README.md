@@ -17,11 +17,11 @@ software development.<br/>
 
 <br/>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fankholor-sudo&show_icons=true&locale=en" alt="fankholor-sudo" /></p>
+<div>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fankholor-sudo&show_icons=true&locale=en" alt="fankholor-sudo" /></div>
 
-<p style="marginTop: 50px"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fankholor-sudo&" alt="fankholor-sudo" /></p>
+<div style="marginTop: 50px"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fankholor-sudo&" alt="fankholor-sudo" /></div>
 
-<p ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fankholor-sudo&show_icons=true&locale=en&layout=compact" alt="fankholor-sudo" /></p>
+<div ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fankholor-sudo&show_icons=true&locale=en&layout=compact" alt="fankholor-sudo" /></div>
 
 <!-- <br/>
 <br/>

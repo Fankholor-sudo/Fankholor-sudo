@@ -19,17 +19,16 @@ software development.<br/>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fankholor-sudo&show_icons=true&locale=en" alt="fankholor-sudo" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fankholor-sudo&" alt="fankholor-sudo" /></p>
+<p style="marginTop: 50px"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fankholor-sudo&" alt="fankholor-sudo" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fankholor-sudo&show_icons=true&locale=en&layout=compact" alt="fankholor-sudo" /></p>
+<p ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fankholor-sudo&show_icons=true&locale=en&layout=compact" alt="fankholor-sudo" /></p>
 
-<br/>
+<!-- <br/>
 <br/>
 <br/>
 <h5>...Never let your passion take you where you character cannot keep you. :)<h5/>
 <br/>
-<br/>
-<br/>
+<br/> -->
 <div align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fankholor-sudo" alt="fankholor-sudo" /></a> </div>
 
 

@@ -17,11 +17,11 @@ software development.<br/>
 
 <br/>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fankholor-sudo&show_icons=true&locale=en" alt="fankholor-sudo" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fankholor-sudo&show_icons=true&locale=en" alt="fankholor-sudo" /></p>
 
-<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fankholor-sudo&show_icons=true&locale=en&layout=compact" alt="fankholor-sudo" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fankholor-sudo&" alt="fankholor-sudo" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fankholor-sudo&" alt="fankholor-sudo" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fankholor-sudo&show_icons=true&locale=en&layout=compact" alt="fankholor-sudo" /></p>
 
 <br/>
 <br/>
@@ -30,8 +30,7 @@ software development.<br/>
 <br/>
 <br/>
 <br/>
-<br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fankholor-sudo" alt="fankholor-sudo" /></a> </p>
+<div align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fankholor-sudo" alt="fankholor-sudo" /></a> </div>
 
 
 <p align="left">

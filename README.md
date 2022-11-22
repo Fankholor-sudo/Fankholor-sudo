@@ -18,7 +18,7 @@ software development.<br/>
 <br/>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fankholor-sudo&show_icons=true&locale=en" alt="fankholor-sudo" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fankholor-sudo&" alt="fankholor-sudo" /></p>
 
 <p ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fankholor-sudo&show_icons=true&locale=en&layout=compact" alt="fankholor-sudo" /></p>

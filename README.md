@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋🏽
 
 
-<h1 align="center">Hi 👋, I'm Fankholoro</h1>
+<h1 align="center">Hi 👋🏽, I'm Fankholoro</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 <h4>About Me...</h4>
@@ -12,7 +12,7 @@ valuable solutions to complex problems. I am passionate about software developme
 strive to make meaningful contributions to this field.<br/>
 <br/>
 
-<b>Roles:</b>
+#### Roles 👨🏽‍💻:
 - Full stack engineer
 - Backend engineer
 - Frontend engineer

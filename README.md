@@ -12,6 +12,16 @@ valuable solutions to complex problems. I am passionate about software developme
 strive to make meaningful contributions to this field.<br/>
 <br/>
 
+<b>Roles:</b>
+- Full stack engineer
+- Backend engineer
+- Frontend engineer
+- Integration engineer
+- Machine learning engineer
+- Mobile engineer
+- QA/Test engineer
+<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fankholor-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="fankholor-sudo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fankholor-sudo" alt="fankholor-sudo" /></a> </p>

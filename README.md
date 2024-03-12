@@ -5,11 +5,14 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 <h4>About Me...</h4>
-I am a skilled Full-Stack Developer with a proven track record in Back-end, Middle-end,<br/>
-and Front-end development, as well as Software design and Software architecture.<br/> 
-My work is characterised by an analytical mindset and a strong commitment to delivering<br/>
-valuable solutions to complex problems. I am passionate about software development and<br/>
-strive to make meaningful contributions to this field.<br/>
+I am a skilled Software Developer with proven track record in Back-end, Middle-end and Front-
+end development, as well as Software design. My work is characterised by an analytical
+mindset and strong commitment to delivering elegant solutions to complex problems. I am
+passionate about Software development and strive to make meaningful contributions to this
+field. I spend most of my time up-skilling and researching about trending technologies,
+currently I am learning Robotic Operating System and ASP.Net. Outside of my professional life
+I do music, I am a piano player and I am also learning music production. I believe that my
+curiosity and passion in software development will make me strive and excel in this field.<br/>
 <br/>
 
 #### Roles 👨🏽‍💻:

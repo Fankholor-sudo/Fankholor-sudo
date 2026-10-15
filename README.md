@@ -5,14 +5,23 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 <h4>About Me...</h4>
-I am a skilled Software Developer with proven track record in Back-end, Middle-end and Front-end<br/> 
-development, as well as Software design. My work is characterised by an analytical mindset and strong<br/> 
-commitment to delivering elegant solutions to complex problems. I am passionate about Software development<br/> 
-and strive to make meaningful contributions to this field. I spend most of my time up-skilling and researching<br/> 
-about trending technologies, currently I am learning Robotic Operating System and ASP.Net. Outside of my<br/> 
-professional life I do music, I am a piano player and I am also learning music production. I believe that<br/> 
-mycuriosity and passion in software development will make me strive and excel in this field.<br/>
-<br/>
+I’m a Software Engineer with 6 years of experience building full-stack applications and taking ownership 
+of systems from design to production. Over time, I’ve grown into a more senior role where I focus not 
+just on delivery, but on how systems are structured, scaled, and improved.
+On the frontend, I’ve worked with React, React-Native & Expo-Cli, Android Studio, Vue, Nuxt, Ionic-Framework 
+and Angular to build responsive and user-focused interfaces. On the backend, I’ve built APIs and services  
+using Node.js, Express, PHP, Django, REST, GraphQL, and micro-services architectures, with experience designing  
+API layers and working with API gateways.<br/> 
+<br/> 
+My core languages include JavaScript, TypeScript, Python, and PHP. I’ve worked with databases like 
+MongoDB, MySQL, Supabase, Firebase, and have experience deploying and managing applications on 
+Google-Cloud, Azure, Digital-Oceans and Frontend-Cloud such as Vercel.
+I’m intentional about writing clean, maintainable code and upholding strong engineering standards 
+through testing, CI/CD with GitHub Actions, and SOLID design principles. Having worked in Agile teams,
+I actively contribute to technical decisions, collaborate on improving development processes, and help 
+shape systems that are robust, scalable, and built for long-term growth.<br/> 
+<br/> 
+
 
 #### Roles 👨🏽‍💻:
 - Full stack engineer

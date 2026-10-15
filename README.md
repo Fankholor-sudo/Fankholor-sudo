@@ -30,7 +30,6 @@ shape systems that are robust, scalable, and built for long-term growth.<br/>
 - Integration engineer
 - Machine learning engineer
 - Mobile engineer
-- QA/Test engineer
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fankholor-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="fankholor-sudo" /> </p>
